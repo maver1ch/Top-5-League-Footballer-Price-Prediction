@@ -16,7 +16,7 @@ The objective is to clean and preprocess the scraped data, visualize performance
 - **Data Preprocessing**: Cleaned and merged raw datasets using Pandas and handled missing or inconsistent values.
 - **Data Visualization**: Used visualization techniques to explore relationships between performance metrics and market value.
 - **Modeling**: Developed machine learning models with hyperparameter tuning and regularization techniques to improve predictive accuracy.
-- **Evaluation**: Evaluated model performance using cross-validation and performance metrics like RMSE and R² score.
+- **Evaluation**: Evaluated model performance using RMSE score.
 
 
 ## Data Visualization
